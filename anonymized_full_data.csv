@@ -1,0 +1,906 @@
+,record_id,age_at_release,sex,firstrace,ethnicity,smokingstatus,clean_m,clean_p,ed_30d,ed_180d,op_30d,op_180d
+0,0,35,Male,White or Caucasian,"Hispanic, Latinx, or Spanish Origin",*Unknown,1,2,0,0,0,0
+1,1,29,Male,,*Unspecified,*Unknown,3,2,0,0,0,0
+2,2,26,Male,Unknown,*Unspecified,Current Every Day Smoker,3,2,0,0,0,0
+3,3,37,Male,,*Unspecified,*Unknown,1,2,0,0,0,0
+4,4,46,Male,White or Caucasian,"Not Hispanic, Latinx, or Spanish Origin",Current Some Day Smoker,4,3,1,1,0,1
+5,5,37,Male,White or Caucasian,"Not Hispanic, Latinx, or Spanish Origin",Former Smoker,1,3,0,0,0,0
+6,6,53,Male,Black or African American,"Not Hispanic, Latinx, or Spanish Origin",Current Some Day Smoker,2,1,1,1,1,1
+7,7,35,Male,White or Caucasian,"Not Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,3,2,0,0,0,0
+8,8,33,Male,Black or African American,"Not Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,2,3,0,0,0,0
+9,9,22,Male,White or Caucasian,"Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,2,3,0,0,1,1
+10,10,25,Male,,*Unspecified,*Unknown,1,2,0,0,0,0
+11,11,50,Male,White or Caucasian,"Hispanic, Latinx, or Spanish Origin",Never Assessed,2,2,0,0,0,0
+12,12,42,Male,,*Unspecified,*Unknown,3,3,0,0,0,0
+13,13,36,Male,Black or African American,"Not Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,2,3,0,0,0,1
+14,14,20,Male,White or Caucasian,"Hispanic, Latinx, or Spanish Origin",Never Smoker,1,1,0,0,0,1
+15,15,46,Male,White or Caucasian,"Hispanic, Latinx, or Spanish Origin",Light Tobacco Smoker,2,2,0,0,0,0
+16,16,25,Female,White or Caucasian,"Not Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,3,3,0,0,0,0
+17,17,56,Male,White or Caucasian,"Not Hispanic, Latinx, or Spanish Origin",Heavy Tobacco Smoker,3,3,0,0,1,1
+18,18,28,Male,White or Caucasian,"Not Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,1,2,0,1,0,1
+19,19,44,Male,White or Caucasian,"Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,1,2,0,0,0,0
+20,20,31,Male,,*Unspecified,*Unknown,3,2,0,0,0,0
+21,21,32,Female,White or Caucasian,"Not Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,3,3,0,0,0,0
+22,22,36,Female,Other,"Not Hispanic, Latinx, or Spanish Origin",Never Smoker,3,3,0,0,0,0
+23,23,41,Male,Black or African American,"Not Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,3,2,0,0,0,1
+24,24,47,Female,White or Caucasian,"Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,3,3,0,0,0,0
+25,25,40,Male,Other,"Hispanic, Latinx, or Spanish Origin",Never Smoker,3,3,0,0,0,0
+26,26,51,Male,White or Caucasian,"Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,3,3,0,0,0,1
+27,27,47,Male,White or Caucasian,"Not Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,3,2,0,1,0,1
+28,28,45,Male,White or Caucasian,"Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,1,2,0,1,0,0
+29,29,41,Male,,*Unspecified,*Unknown,2,2,0,0,0,0
+30,30,23,Male,White or Caucasian,"Hispanic, Latinx, or Spanish Origin",Never Assessed,1,1,0,0,0,0
+31,31,42,Female,White or Caucasian,"Not Hispanic, Latinx, or Spanish Origin",Former Smoker,3,1,0,0,1,1
+32,32,40,Male,,*Unspecified,*Unknown,3,2,0,0,0,0
+33,33,31,Male,,*Unspecified,*Unknown,3,2,0,0,0,0
+34,34,30,Male,,*Unspecified,*Unknown,1,2,0,0,0,0
+35,35,41,Male,Other,"Hispanic, Latinx, or Spanish Origin",Never Smoker,3,2,0,1,0,1
+36,36,40,Male,,*Unspecified,*Unknown,1,2,0,0,0,0
+37,37,40,Male,White or Caucasian,"Hispanic, Latinx, or Spanish Origin",Unknown If Ever Smoked,2,2,0,0,0,0
+38,38,58,Male,Black or African American,"Not Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,2,2,1,1,1,1
+39,39,25,Male,White or Caucasian,"Not Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,1,2,0,0,0,0
+40,40,28,Male,Other,"Hispanic, Latinx, or Spanish Origin",Current Some Day Smoker,1,3,0,0,0,0
+41,41,47,Male,Decline to Answer,Decline to Answer,Current Every Day Smoker,4,2,0,0,0,0
+42,42,36,Male,Black or African American,"Not Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,3,2,0,0,0,0
+43,43,39,Male,White or Caucasian,"Not Hispanic, Latinx, or Spanish Origin",Current Some Day Smoker,2,2,0,0,0,0
+44,44,58,Male,White or Caucasian,"Not Hispanic, Latinx, or Spanish Origin",*Unknown,3,2,0,0,0,0
+45,45,55,Male,,*Unspecified,*Unknown,3,2,0,0,0,0
+46,46,50,Male,White or Caucasian,"Hispanic, Latinx, or Spanish Origin",Never Smoker,1,2,0,0,0,0
+47,47,34,Female,White or Caucasian,"Not Hispanic, Latinx, or Spanish Origin",Former Smoker,4,3,0,0,0,0
+48,48,51,Male,White or Caucasian,"Not Hispanic, Latinx, or Spanish Origin",Current Some Day Smoker,3,3,1,1,1,1
+49,49,35,Male,,"Not Hispanic, Latinx, or Spanish Origin",Never Smoker,2,1,0,0,0,0
+50,50,32,Male,,*Unspecified,*Unknown,2,2,0,0,0,0
+51,51,34,Male,White or Caucasian,"Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,2,3,0,1,0,0
+52,52,41,Male,White or Caucasian,"Not Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,2,1,0,0,0,0
+53,53,52,Male,White or Caucasian,"Not Hispanic, Latinx, or Spanish Origin",Never Smoker,1,2,1,1,0,0
+54,54,60,Male,White or Caucasian,"Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,2,2,0,0,0,0
+55,55,50,Female,White or Caucasian,"Not Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,3,3,0,0,0,0
+56,56,41,Male,White or Caucasian,"Not Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,2,2,0,0,0,0
+57,57,36,Female,White or Caucasian,"Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,3,3,0,1,0,1
+58,58,30,Male,White or Caucasian,"Not Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,2,3,1,1,0,0
+59,59,36,Male,Other,"Hispanic, Latinx, or Spanish Origin",Never Smoker,3,3,0,0,0,0
+60,60,38,Male,,*Unspecified,*Unknown,2,2,0,0,0,0
+61,61,29,Male,White or Caucasian,"Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,3,4,1,1,0,1
+62,62,36,Male,,*Unspecified,*Unknown,2,2,0,0,0,0
+63,63,37,Male,,*Unspecified,Current Every Day Smoker,3,3,0,0,1,1
+64,64,54,Male,Black or African American,"Not Hispanic, Latinx, or Spanish Origin",*Unknown,2,2,0,0,0,0
+65,65,66,Male,White or Caucasian,"Not Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,3,2,0,1,0,1
+66,66,33,Unknown,White or Caucasian,"Not Hispanic, Latinx, or Spanish Origin",Former Smoker,1,3,1,1,0,0
+67,67,56,Male,,*Unspecified,*Unknown,2,2,0,0,0,0
+68,68,31,Male,,*Unspecified,*Unknown,2,2,0,0,0,0
+69,69,72,Male,White or Caucasian,"Not Hispanic, Latinx, or Spanish Origin",*Unknown,2,1,0,0,0,1
+70,70,52,Male,,*Unspecified,*Unknown,2,2,0,0,0,0
+71,71,26,Male,,*Unspecified,*Unknown,2,2,0,0,0,0
+72,72,30,Male,White or Caucasian,"Not Hispanic, Latinx, or Spanish Origin",*Unknown,2,2,0,0,0,0
+73,73,26,Male,,*Unspecified,*Unknown,1,1,0,0,0,0
+74,74,40,Male,White or Caucasian,"Not Hispanic, Latinx, or Spanish Origin",Never Smoker,2,3,0,1,0,1
+75,75,29,Male,White or Caucasian,"Not Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,1,2,0,0,0,0
+76,76,30,Male,Other,"Hispanic, Latinx, or Spanish Origin",Never Smoker,1,1,0,0,0,0
+77,77,31,Male,Black or African American,"Not Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,2,2,0,0,0,0
+78,78,40,Male,Black or African American,"Not Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,1,2,0,0,0,0
+79,79,30,Male,,*Unspecified,Never Smoker,1,1,0,0,0,0
+80,80,29,Male,White or Caucasian,"Not Hispanic, Latinx, or Spanish Origin",Never Assessed,1,1,0,0,0,0
+81,81,58,Male,White or Caucasian,"Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,3,3,0,0,0,0
+82,82,27,Female,White or Caucasian,"Hispanic, Latinx, or Spanish Origin",*Unknown,1,3,0,0,0,0
+83,83,29,Male,White or Caucasian,"Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,3,2,0,0,0,0
+84,84,42,Male,,*Unspecified,*Unknown,4,2,0,0,0,0
+85,85,54,Male,White or Caucasian,"Not Hispanic, Latinx, or Spanish Origin",Never Smoker,4,3,0,0,0,0
+86,86,22,Male,Black or African American,"Not Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,1,2,0,0,0,0
+87,87,56,Male,Decline to Answer,"Hispanic, Latinx, or Spanish Origin",*Unknown,3,3,0,0,0,0
+88,88,47,Male,Black or African American,"Not Hispanic, Latinx, or Spanish Origin",Light Tobacco Smoker,1,2,0,1,0,0
+89,89,27,Male,Black or African American,"Not Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,1,3,0,0,1,1
+90,90,42,Male,White or Caucasian,"Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,2,2,0,0,0,0
+91,91,50,Female,White or Caucasian,"Not Hispanic, Latinx, or Spanish Origin",Never Smoker,2,3,0,1,0,0
+92,92,28,Male,White or Caucasian,"Not Hispanic, Latinx, or Spanish Origin",*Unknown,1,1,0,0,0,1
+93,93,29,Male,,*Unspecified,*Unknown,1,1,0,0,0,0
+94,94,49,Male,Other,"Not Hispanic, Latinx, or Spanish Origin",Never Smoker,2,3,0,0,0,0
+95,95,33,Male,,*Unspecified,*Unknown,2,2,0,0,0,0
+96,96,26,Male,White or Caucasian,"Not Hispanic, Latinx, or Spanish Origin",*Unknown,3,3,0,0,0,1
+97,97,34,Male,White or Caucasian,"Not Hispanic, Latinx, or Spanish Origin",*Unknown,1,3,0,1,0,0
+98,98,40,Male,White or Caucasian,"Hispanic, Latinx, or Spanish Origin",*Unknown,1,2,0,0,0,1
+99,99,40,Male,White or Caucasian,"Hispanic, Latinx, or Spanish Origin",Never Smoker,1,2,0,0,0,0
+100,100,37,Male,Black or African American,"Not Hispanic, Latinx, or Spanish Origin",Never Smoker,3,2,0,1,0,1
+101,101,44,Male,,*Unspecified,*Unknown,2,3,0,0,0,0
+102,102,27,Male,White or Caucasian,"Not Hispanic, Latinx, or Spanish Origin",Current Some Day Smoker,2,3,0,1,0,1
+103,103,45,Male,White or Caucasian,"Not Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,2,2,0,0,0,0
+104,104,30,Male,Black or African American,"Not Hispanic, Latinx, or Spanish Origin","Smoker, Current Status Unknown",1,3,0,0,0,0
+105,105,41,Female,White or Caucasian,"Not Hispanic, Latinx, or Spanish Origin",Never Smoker,1,3,0,0,0,0
+106,106,26,Male,White or Caucasian,"Not Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,2,3,0,1,0,1
+107,107,22,Female,White or Caucasian,"Hispanic, Latinx, or Spanish Origin",Never Smoker,2,3,0,0,0,0
+108,108,44,Male,White or Caucasian,"Not Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,3,2,0,0,0,0
+109,109,57,Male,Black or African American,"Not Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,4,3,0,1,0,0
+110,110,26,Male,White or Caucasian,"Not Hispanic, Latinx, or Spanish Origin",Never Assessed,1,3,0,0,0,0
+111,111,39,Male,,*Unspecified,*Unknown,2,3,0,0,0,0
+112,112,52,Male,White or Caucasian,"Not Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,3,3,0,0,0,0
+113,113,35,Male,,*Unspecified,*Unknown,1,2,0,0,0,0
+114,114,34,Male,American Indian or Alaska Native,"Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,3,2,0,0,0,0
+115,115,32,Male,,*Unspecified,*Unknown,2,2,0,0,0,0
+116,116,25,Male,Other,"Hispanic, Latinx, or Spanish Origin",Never Smoker,1,2,0,0,0,0
+117,117,46,Male,,*Unspecified,*Unknown,2,2,0,0,0,0
+118,118,45,Male,,*Unspecified,*Unknown,2,2,0,0,0,0
+119,119,38,Male,White or Caucasian,"Not Hispanic, Latinx, or Spanish Origin",Never Assessed,2,2,0,0,0,0
+120,120,48,Male,White or Caucasian,"Not Hispanic, Latinx, or Spanish Origin",Former Smoker,2,1,0,0,0,0
+121,121,36,Female,White or Caucasian,"Hispanic, Latinx, or Spanish Origin",Never Smoker,2,3,1,1,0,0
+122,122,40,Male,White or Caucasian,"Not Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,3,2,0,0,0,0
+123,123,28,Male,White or Caucasian,"Not Hispanic, Latinx, or Spanish Origin",*Unknown,2,2,0,0,0,0
+124,124,25,Male,White or Caucasian,"Hispanic, Latinx, or Spanish Origin",Unknown If Ever Smoked,1,3,0,1,0,1
+125,125,29,Male,,*Unspecified,*Unknown,3,2,0,0,0,0
+126,126,28,Male,,*Unspecified,*Unknown,2,1,0,0,0,0
+127,127,45,Male,Black or African American,"Not Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,2,3,0,1,0,1
+128,128,30,Male,Black or African American,"Not Hispanic, Latinx, or Spanish Origin",Heavy Tobacco Smoker,3,3,0,1,0,0
+129,129,30,Male,,*Unspecified,Never Assessed,1,2,0,0,0,0
+130,130,48,Male,Black or African American,"Not Hispanic, Latinx, or Spanish Origin",Former Smoker,1,3,0,0,1,1
+131,131,34,Male,White or Caucasian,"Not Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,2,3,0,0,0,0
+132,132,36,Male,Other,"Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,1,2,0,0,0,0
+133,133,22,Male,Black or African American,"Not Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,2,1,0,0,0,1
+134,134,38,Male,White or Caucasian,"Not Hispanic, Latinx, or Spanish Origin",Former Smoker,3,3,0,0,0,0
+135,135,22,Male,Black or African American,"Not Hispanic, Latinx, or Spanish Origin",Light Tobacco Smoker,1,3,0,0,0,0
+136,136,42,Male,White or Caucasian,"Hispanic, Latinx, or Spanish Origin",Never Smoker,2,2,0,0,0,0
+137,137,44,Male,Black or African American,"Not Hispanic, Latinx, or Spanish Origin",Former Smoker,2,2,0,0,0,0
+138,138,42,Male,Black or African American,"Not Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,2,3,0,1,0,1
+139,139,46,Male,White or Caucasian,"Hispanic, Latinx, or Spanish Origin",*Unknown,2,3,0,0,0,0
+140,140,58,Male,Black or African American,"Not Hispanic, Latinx, or Spanish Origin",Former Smoker,2,2,0,0,1,1
+141,141,34,Male,White or Caucasian,"Hispanic, Latinx, or Spanish Origin",Former Smoker,1,3,1,1,1,1
+142,142,42,Male,White or Caucasian,"Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,3,3,0,0,0,0
+143,143,39,Female,,*Unspecified,*Unknown,1,3,0,0,0,0
+144,144,44,Male,Other,"Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,2,1,0,1,0,0
+145,145,38,Male,White or Caucasian,"Not Hispanic, Latinx, or Spanish Origin",Former Smoker,2,2,0,0,0,1
+146,146,36,Male,Black or African American,"Not Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,1,3,0,0,0,0
+147,147,35,Male,Unknown,*Unspecified,Never Assessed,3,2,0,0,0,1
+148,148,33,Male,White or Caucasian,"Not Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,1,3,0,0,0,0
+149,149,38,Female,White or Caucasian,"Hispanic, Latinx, or Spanish Origin",Former Smoker,1,3,0,0,0,0
+150,150,45,Male,White or Caucasian,"Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,4,3,0,0,0,0
+151,151,27,Male,White or Caucasian,"Not Hispanic, Latinx, or Spanish Origin",*Unknown,1,2,0,0,0,1
+152,152,35,Male,,*Unspecified,*Unknown,1,1,0,0,0,0
+153,153,24,Male,White or Caucasian,"Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,1,3,0,0,0,0
+154,154,46,Female,,*Unspecified,*Unknown,3,3,0,0,0,0
+155,155,27,Male,Black or African American,"Not Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,2,2,0,0,0,0
+156,156,48,Male,Black or African American,"Not Hispanic, Latinx, or Spanish Origin",*Unknown,3,3,0,0,0,0
+157,157,39,Male,White or Caucasian,"Not Hispanic, Latinx, or Spanish Origin",Never Assessed,1,2,0,0,0,0
+158,158,32,Male,White or Caucasian,"Hispanic, Latinx, or Spanish Origin",*Unknown,1,3,0,0,0,0
+159,159,37,Male,Other,"Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,3,2,0,0,1,1
+160,160,36,Male,,*Unspecified,*Unknown,1,2,0,0,0,0
+161,161,28,Male,,*Unspecified,*Unknown,2,3,0,0,0,0
+162,162,24,Female,Black or African American,"Not Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,2,3,0,0,0,0
+163,163,40,Male,,"Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,3,2,0,0,0,0
+164,164,29,Male,White or Caucasian,"Hispanic, Latinx, or Spanish Origin",*Unknown,1,2,0,0,0,0
+165,165,31,Male,Black or African American,"Not Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,3,2,0,0,0,0
+166,166,49,Male,White or Caucasian,"Not Hispanic, Latinx, or Spanish Origin",Light Tobacco Smoker,1,2,0,0,0,0
+167,167,32,Female,Other,"Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,2,3,1,1,1,1
+168,168,43,Male,White or Caucasian,"Not Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,2,2,0,0,0,0
+169,169,25,Male,,*Unspecified,*Unknown,1,3,0,0,0,0
+170,170,27,Male,White or Caucasian,"Not Hispanic, Latinx, or Spanish Origin",Unknown If Ever Smoked,2,3,0,0,0,0
+171,171,30,Male,White or Caucasian,"Hispanic, Latinx, or Spanish Origin",Light Tobacco Smoker,1,2,0,0,0,0
+172,172,43,Male,White or Caucasian,"Hispanic, Latinx, or Spanish Origin",*Unknown,2,2,0,0,0,0
+173,173,34,Female,Other,"Hispanic, Latinx, or Spanish Origin",Never Smoker,1,1,0,1,0,0
+174,174,34,Male,White or Caucasian,"Not Hispanic, Latinx, or Spanish Origin",Never Smoker,2,3,0,0,0,0
+175,175,28,Male,White or Caucasian,"Not Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,2,3,0,0,0,0
+176,176,30,Male,Other,"Hispanic, Latinx, or Spanish Origin",Never Smoker,1,2,0,0,0,0
+177,177,46,Male,White or Caucasian,"Hispanic, Latinx, or Spanish Origin",Current Some Day Smoker,2,2,0,0,0,0
+178,178,38,Female,White or Caucasian,"Not Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,1,3,0,0,1,1
+179,179,47,Male,Black or African American,"Not Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,2,2,1,1,0,1
+180,180,41,Male,White or Caucasian,"Not Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,2,3,0,0,0,0
+181,181,38,Male,,*Unspecified,*Unknown,3,3,0,0,0,0
+182,182,41,Male,White or Caucasian,"Not Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,2,2,0,0,0,0
+183,183,36,Male,White or Caucasian,"Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,3,3,0,0,1,1
+184,184,34,Male,White or Caucasian,"Not Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,1,3,1,1,0,0
+185,185,52,Male,White or Caucasian,"Not Hispanic, Latinx, or Spanish Origin",Unknown If Ever Smoked,1,2,0,0,0,0
+186,186,32,Male,,*Unspecified,*Unknown,1,2,0,0,0,0
+187,187,41,Male,Black or African American,"Not Hispanic, Latinx, or Spanish Origin",Light Tobacco Smoker,1,3,1,1,0,1
+188,188,31,Male,Other,"Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,2,3,1,1,1,1
+189,189,24,Male,White or Caucasian,"Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,1,3,0,0,0,0
+190,190,31,Male,,*Unspecified,*Unknown,1,2,0,0,0,0
+191,191,48,Female,White or Caucasian,"Not Hispanic, Latinx, or Spanish Origin",Former Smoker,4,3,0,0,0,0
+192,192,37,Male,White or Caucasian,"Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,2,2,0,0,1,1
+193,193,28,Male,White or Caucasian,"Not Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,1,2,0,0,0,0
+194,194,24,Male,,*Unspecified,*Unknown,4,3,0,0,0,0
+195,195,37,Male,White or Caucasian,"Not Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,3,4,1,1,1,1
+196,196,28,Male,Asian,"Not Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,1,2,0,0,0,0
+197,197,38,Male,White or Caucasian,"Not Hispanic, Latinx, or Spanish Origin",Former Smoker,3,2,0,0,0,1
+198,198,28,Male,Black or African American,"Not Hispanic, Latinx, or Spanish Origin",Never Smoker,3,3,0,0,0,0
+199,199,39,Male,Other,"Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,3,2,0,0,0,0
+200,200,52,Female,White or Caucasian,"Not Hispanic, Latinx, or Spanish Origin",Former Smoker,1,3,0,0,0,0
+201,201,31,Female,White or Caucasian,"Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,3,3,0,0,0,1
+202,202,45,Male,White or Caucasian,"Not Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,2,3,0,0,0,0
+203,203,28,Male,White or Caucasian,"Not Hispanic, Latinx, or Spanish Origin",Never Assessed,1,2,0,0,0,0
+204,204,30,Female,White or Caucasian,"Not Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,3,3,0,0,0,0
+205,205,26,Male,Other,"Hispanic, Latinx, or Spanish Origin",*Unknown,1,1,0,0,0,0
+206,206,32,Male,Black or African American,"Not Hispanic, Latinx, or Spanish Origin",Never Assessed,2,3,0,0,0,0
+207,207,45,Male,,*Unspecified,*Unknown,2,2,0,0,0,0
+208,208,33,Female,White or Caucasian,"Not Hispanic, Latinx, or Spanish Origin",*Unknown,1,3,0,0,0,0
+209,209,37,Male,White or Caucasian,"Not Hispanic, Latinx, or Spanish Origin",Current Some Day Smoker,2,3,0,0,1,1
+210,210,38,Female,,*Unspecified,*Unknown,2,3,0,0,0,0
+211,211,28,Male,Other,"Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,1,2,0,1,0,1
+212,212,32,Male,White or Caucasian,"Not Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,3,3,0,1,1,1
+213,213,55,Female,,*Unspecified,Never Assessed,3,3,0,0,0,0
+214,214,49,Female,,*Unspecified,*Unknown,3,3,0,0,0,0
+215,215,55,Male,,*Unspecified,*Unknown,3,2,0,0,0,0
+216,216,42,Male,White or Caucasian,"Hispanic, Latinx, or Spanish Origin",Never Smoker,2,1,0,0,0,0
+217,217,23,Female,White or Caucasian,"Hispanic, Latinx, or Spanish Origin",Never Smoker,3,1,0,0,1,1
+218,218,32,Male,White or Caucasian,"Not Hispanic, Latinx, or Spanish Origin",Never Smoker,1,3,0,1,0,0
+219,219,35,Male,White or Caucasian,"Hispanic, Latinx, or Spanish Origin",Current Some Day Smoker,1,3,0,0,1,1
+220,220,22,Male,White or Caucasian,"Hispanic, Latinx, or Spanish Origin",Current Some Day Smoker,2,1,0,0,0,1
+221,221,61,Male,,*Unspecified,*Unknown,1,2,0,0,0,0
+222,222,33,Male,White or Caucasian,"Not Hispanic, Latinx, or Spanish Origin",Former Smoker,2,2,0,0,0,0
+223,223,59,Male,White or Caucasian,"Not Hispanic, Latinx, or Spanish Origin",Former Smoker,3,3,0,0,1,1
+224,224,22,Male,White or Caucasian,"Hispanic, Latinx, or Spanish Origin",Never Smoker,2,3,0,1,0,1
+225,225,36,Male,Black or African American,"Not Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,3,3,0,0,0,0
+226,226,36,Male,White or Caucasian,"Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,1,2,0,1,0,1
+227,227,40,Male,American Indian or Alaska Native,"Hispanic, Latinx, or Spanish Origin",*Unknown,2,3,0,1,0,0
+228,228,24,Male,White or Caucasian,"Not Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,3,3,1,1,0,0
+229,229,49,Male,White or Caucasian,"Not Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,3,2,0,0,0,0
+230,230,30,Male,,*Unspecified,*Unknown,2,3,0,0,0,0
+231,231,56,Male,White or Caucasian,"Not Hispanic, Latinx, or Spanish Origin",*Unknown,3,1,0,0,1,1
+232,232,30,Male,Black or African American,"Not Hispanic, Latinx, or Spanish Origin",*Unknown,2,3,0,0,0,0
+233,233,39,Male,White or Caucasian,"Not Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,1,2,0,0,0,0
+234,234,33,Male,White or Caucasian,"Not Hispanic, Latinx, or Spanish Origin",*Unknown,2,2,0,0,0,0
+235,235,30,Male,Other,"Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,1,2,0,0,0,0
+236,236,31,Male,,*Unspecified,*Unknown,2,2,0,0,0,0
+237,237,46,Male,White or Caucasian,"Not Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,3,2,0,0,0,1
+238,238,35,Female,,*Unspecified,*Unknown,1,3,0,0,0,0
+239,239,47,Male,White or Caucasian,"Not Hispanic, Latinx, or Spanish Origin",*Unknown,3,2,0,0,0,0
+240,240,36,Male,Black or African American,"Not Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,1,2,0,0,0,0
+241,241,26,Male,Other,"Hispanic, Latinx, or Spanish Origin",Never Smoker,1,1,0,1,0,0
+242,242,28,Male,Black or African American,"Not Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,2,3,0,0,0,0
+243,243,21,Male,Other,"Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,1,1,0,0,0,0
+244,244,38,Male,Black or African American,"Not Hispanic, Latinx, or Spanish Origin",Never Assessed,3,2,1,1,0,0
+245,245,26,Male,,*Unspecified,*Unknown,3,2,0,0,0,0
+246,246,35,Male,White or Caucasian,"Not Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,3,2,0,0,0,0
+247,247,27,Male,White or Caucasian,"Not Hispanic, Latinx, or Spanish Origin",Former Smoker,3,2,0,0,1,1
+248,248,29,Male,White or Caucasian,"Not Hispanic, Latinx, or Spanish Origin",Never Assessed,2,3,0,0,0,0
+249,249,49,Male,,*Unspecified,*Unknown,2,3,0,0,0,0
+250,250,47,Female,White or Caucasian,"Not Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,1,3,0,0,0,0
+251,251,37,Male,White or Caucasian,"Hispanic, Latinx, or Spanish Origin",Never Smoker,3,3,0,0,0,1
+252,252,36,Male,American Indian or Alaska Native,"Hispanic, Latinx, or Spanish Origin",Former Smoker,2,1,0,0,1,1
+253,253,28,Male,,*Unspecified,*Unknown,1,3,0,0,0,0
+254,254,42,Male,Other,"Hispanic, Latinx, or Spanish Origin",Never Smoker,2,3,0,1,0,1
+255,255,53,Female,,*Unspecified,*Unknown,3,3,0,0,0,0
+256,256,35,Female,,*Unspecified,*Unknown,1,3,0,0,0,0
+257,257,49,Male,,*Unspecified,Former Smoker,2,3,0,0,0,0
+258,258,29,Female,White or Caucasian,"Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,1,3,0,0,0,0
+259,259,51,Male,,*Unspecified,*Unknown,1,2,0,0,0,0
+260,260,32,Female,White or Caucasian,"Not Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,1,3,0,0,0,0
+261,261,44,Female,,*Unspecified,*Unknown,3,1,0,0,0,0
+262,262,42,Female,Other,"Hispanic, Latinx, or Spanish Origin",Former Smoker,4,3,0,0,0,0
+263,263,36,Female,Black or African American,"Not Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,3,3,0,0,0,0
+264,264,47,Male,White or Caucasian,"Not Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,1,2,0,0,0,0
+265,265,62,Male,,*Unspecified,*Unknown,2,2,0,0,0,0
+266,266,28,Male,White or Caucasian,"Hispanic, Latinx, or Spanish Origin",Current Some Day Smoker,2,3,0,0,0,0
+267,267,33,Male,Black or African American,"Not Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,2,2,0,0,0,0
+268,268,61,Male,Black or African American,"Not Hispanic, Latinx, or Spanish Origin",Never Smoker,3,2,0,0,0,1
+269,269,21,Female,White or Caucasian,"Not Hispanic, Latinx, or Spanish Origin",Never Smoker,3,3,0,1,0,1
+270,270,39,Male,,*Unspecified,*Unknown,1,3,0,0,0,0
+271,271,44,Female,Black or African American,"Not Hispanic, Latinx, or Spanish Origin",Never Assessed,1,3,0,0,0,0
+272,272,45,Male,,*Unspecified,*Unknown,2,2,0,0,0,0
+273,273,39,Male,Other,"Not Hispanic, Latinx, or Spanish Origin",Never Smoker,3,2,0,0,0,1
+274,274,47,Female,Black or African American,"Not Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,3,3,0,1,0,1
+275,275,30,Male,White or Caucasian,"Not Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,1,2,0,1,0,1
+276,276,42,Male,,*Unspecified,*Unknown,1,2,0,0,0,0
+277,277,48,Male,,*Unspecified,*Unknown,2,2,0,0,0,0
+278,278,26,Male,Other,"Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,1,3,1,1,0,0
+279,279,34,Male,,*Unspecified,*Unknown,1,2,0,0,0,0
+280,280,26,Male,Black or African American,"Not Hispanic, Latinx, or Spanish Origin",Never Smoker,2,2,0,0,0,0
+281,281,38,Male,White or Caucasian,*Unspecified,*Unknown,1,2,0,0,0,0
+282,282,28,Male,Black or African American,"Not Hispanic, Latinx, or Spanish Origin",Never Assessed,2,2,0,0,0,0
+283,283,34,Female,White or Caucasian,"Not Hispanic, Latinx, or Spanish Origin",Never Assessed,2,3,0,1,0,0
+284,284,40,Male,White or Caucasian,"Not Hispanic, Latinx, or Spanish Origin",Former Smoker,1,2,0,1,0,1
+285,285,36,Male,,*Unspecified,*Unknown,1,1,0,0,0,0
+286,286,23,Male,Decline to Answer,Decline to Answer,*Unknown,1,1,0,0,0,0
+287,287,52,Male,,*Unspecified,*Unknown,2,1,0,0,0,0
+288,288,27,Male,Other,"Hispanic, Latinx, or Spanish Origin",Never Smoker,2,2,0,0,0,0
+289,289,49,Female,Other,"Not Hispanic, Latinx, or Spanish Origin",Light Tobacco Smoker,3,3,0,1,0,0
+290,290,44,Male,Black or African American,"Not Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,2,3,0,0,0,0
+291,291,28,Male,White or Caucasian,"Not Hispanic, Latinx, or Spanish Origin",Heavy Tobacco Smoker,2,3,0,0,0,1
+292,292,41,Male,White or Caucasian,"Not Hispanic, Latinx, or Spanish Origin",Current Some Day Smoker,3,2,0,0,0,0
+293,293,42,Male,White or Caucasian,"Not Hispanic, Latinx, or Spanish Origin",Never Assessed,1,3,0,0,0,0
+294,294,33,Male,Black or African American,"Not Hispanic, Latinx, or Spanish Origin",Never Smoker,2,1,0,0,0,1
+295,295,32,Male,,*Unspecified,*Unknown,1,2,0,0,0,0
+296,296,35,Male,White or Caucasian,"Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,2,4,1,1,1,1
+297,297,35,Male,Other,"Hispanic, Latinx, or Spanish Origin",*Unknown,2,3,0,0,0,0
+298,298,28,Male,Black or African American,"Not Hispanic, Latinx, or Spanish Origin",Former Smoker,1,4,0,1,1,1
+299,299,48,Female,White or Caucasian,"Hispanic, Latinx, or Spanish Origin",Never Smoker,3,3,0,0,0,1
+300,300,21,Female,Other,*Unspecified,Former Smoker,1,3,1,1,0,0
+301,301,42,Male,,"Hispanic, Latinx, or Spanish Origin",*Unknown,2,1,0,0,0,0
+302,302,38,Male,White or Caucasian,"Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,2,3,0,0,0,0
+303,303,39,Male,White or Caucasian,"Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,3,3,0,0,1,1
+304,304,37,Female,White or Caucasian,"Not Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,1,3,0,0,0,0
+305,305,26,Male,Black or African American,"Hispanic, Latinx, or Spanish Origin",Former Smoker,1,2,0,0,0,1
+306,306,31,Male,American Indian or Alaska Native,Decline to Answer,Former Smoker,1,2,0,0,0,0
+307,307,30,Male,White or Caucasian,"Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,1,2,0,1,0,1
+308,308,30,Male,Black or African American,"Not Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,2,2,1,1,0,1
+309,309,31,Male,White or Caucasian,"Not Hispanic, Latinx, or Spanish Origin",Current Some Day Smoker,3,3,1,1,1,1
+310,310,26,Male,White or Caucasian,"Not Hispanic, Latinx, or Spanish Origin",Never Smoker,2,2,0,0,0,1
+311,311,47,Male,White or Caucasian,"Hispanic, Latinx, or Spanish Origin",Never Smoker,3,3,0,0,0,0
+312,312,43,Female,White or Caucasian,"Not Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,3,3,0,1,0,1
+313,313,40,Female,,*Unspecified,*Unknown,3,3,0,0,0,0
+314,314,27,Female,White or Caucasian,"Hispanic, Latinx, or Spanish Origin",Current Some Day Smoker,2,3,0,0,0,0
+315,315,38,Male,White or Caucasian,"Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,2,3,0,0,0,0
+316,316,23,Male,White or Caucasian,"Hispanic, Latinx, or Spanish Origin",Never Smoker,2,2,0,0,0,0
+317,317,26,Male,,*Unspecified,*Unknown,1,2,0,0,0,0
+318,318,54,Male,White or Caucasian,"Hispanic, Latinx, or Spanish Origin",Never Smoker,2,2,0,0,0,0
+319,319,56,Male,Black or African American,"Not Hispanic, Latinx, or Spanish Origin",Former Smoker,4,3,0,1,1,1
+320,320,58,Male,White or Caucasian,"Not Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,2,3,0,0,1,1
+321,321,24,Male,Black or African American,"Not Hispanic, Latinx, or Spanish Origin",Former Smoker,1,1,0,0,0,1
+322,322,44,Male,Black or African American,"Hispanic, Latinx, or Spanish Origin",*Unknown,2,2,0,0,0,0
+323,323,41,Male,,*Unspecified,*Unknown,2,3,0,0,0,0
+324,324,36,Male,Black or African American,"Not Hispanic, Latinx, or Spanish Origin",Never Assessed,2,1,0,0,0,0
+325,325,38,Male,Black or African American,"Not Hispanic, Latinx, or Spanish Origin",Former Smoker,2,2,0,0,0,0
+326,326,25,Male,White or Caucasian,"Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,2,2,0,0,0,0
+327,327,41,Male,Decline to Answer,Decline to Answer,Light Tobacco Smoker,2,2,1,1,0,0
+328,328,29,Male,Black or African American,"Not Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,1,2,0,0,0,1
+329,329,43,Male,White or Caucasian,"Not Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,2,3,0,1,0,1
+330,330,24,Male,White or Caucasian,"Not Hispanic, Latinx, or Spanish Origin",Never Assessed,2,2,0,0,0,0
+331,331,40,Female,,*Unspecified,*Unknown,2,3,0,0,0,0
+332,332,33,Male,,*Unspecified,*Unknown,1,2,0,0,0,0
+333,333,41,Male,American Indian or Alaska Native,"Not Hispanic, Latinx, or Spanish Origin",Never Smoker,1,3,0,0,0,0
+334,334,44,Male,Black or African American,"Not Hispanic, Latinx, or Spanish Origin",Former Smoker,1,3,0,0,0,0
+335,335,44,Male,White or Caucasian,"Not Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,3,2,0,0,1,1
+336,336,21,Male,Black or African American,"Not Hispanic, Latinx, or Spanish Origin",Never Smoker,1,1,0,0,0,0
+337,337,36,Male,American Indian or Alaska Native,"Not Hispanic, Latinx, or Spanish Origin",Current Some Day Smoker,1,2,0,0,0,0
+338,338,41,Male,White or Caucasian,"Not Hispanic, Latinx, or Spanish Origin",Former Smoker,2,3,1,1,0,0
+339,339,33,Male,American Indian or Alaska Native,"Not Hispanic, Latinx, or Spanish Origin",Unknown If Ever Smoked,1,2,0,0,0,0
+340,340,27,Male,,*Unspecified,Never Smoker,1,2,0,0,0,0
+341,341,40,Male,White or Caucasian,"Hispanic, Latinx, or Spanish Origin",*Unknown,1,2,0,0,0,0
+342,342,33,Male,White or Caucasian,"Hispanic, Latinx, or Spanish Origin",Current Some Day Smoker,1,2,0,0,0,0
+343,343,24,Male,,*Unspecified,*Unknown,3,3,0,0,0,0
+344,344,61,Male,Black or African American,"Not Hispanic, Latinx, or Spanish Origin",*Unknown,3,2,0,0,0,0
+345,345,34,Male,,*Unspecified,*Unknown,1,3,0,0,0,0
+346,346,42,Female,White or Caucasian,"Not Hispanic, Latinx, or Spanish Origin",Never Smoker,2,3,0,0,0,1
+347,347,41,Male,Other,"Hispanic, Latinx, or Spanish Origin",Former Smoker,1,3,0,0,0,0
+348,348,37,Male,,*Unspecified,*Unknown,1,1,0,0,0,0
+349,349,31,Male,Black or African American,"Not Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,2,2,0,0,0,0
+350,350,32,Male,White or Caucasian,"Not Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,3,3,0,0,0,1
+351,351,34,Female,,*Unspecified,*Unknown,1,3,0,0,0,0
+352,352,37,Male,White or Caucasian,"Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,2,2,0,0,0,0
+353,353,29,Male,White or Caucasian,"Hispanic, Latinx, or Spanish Origin",Never Smoker,1,1,0,0,0,0
+354,354,49,Male,,*Unspecified,*Unknown,2,2,0,0,0,0
+355,355,29,Female,White or Caucasian,"Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,2,3,0,1,0,1
+356,356,62,Male,,*Unspecified,*Unknown,3,3,0,0,0,0
+357,357,40,Male,White or Caucasian,"Not Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,3,3,0,0,0,0
+358,358,27,Male,Other,"Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,1,1,0,0,0,0
+359,359,30,Female,White or Caucasian,"Not Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,1,3,0,0,0,0
+360,360,37,Female,White or Caucasian,"Hispanic, Latinx, or Spanish Origin",Current Some Day Smoker,3,3,0,0,0,0
+361,361,64,Male,White or Caucasian,"Not Hispanic, Latinx, or Spanish Origin",Former Smoker,3,3,0,1,0,1
+362,362,21,Male,White or Caucasian,"Hispanic, Latinx, or Spanish Origin",Never Smoker,1,1,0,0,0,0
+363,363,21,Male,Black or African American,"Not Hispanic, Latinx, or Spanish Origin",Never Smoker,1,1,0,0,0,0
+364,364,32,Male,White or Caucasian,"Not Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,1,2,0,0,0,0
+365,365,28,Male,White or Caucasian,"Not Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,3,3,0,0,0,0
+366,366,37,Male,Black or African American,"Not Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,2,2,0,0,0,1
+367,367,44,Male,,*Unspecified,*Unknown,2,2,0,0,0,0
+368,368,34,Male,,*Unspecified,*Unknown,1,1,0,0,0,0
+369,369,45,Male,American Indian or Alaska Native,"Hispanic, Latinx, or Spanish Origin",Former Smoker,2,3,0,0,0,1
+370,370,25,Female,,*Unspecified,*Unknown,1,3,0,0,0,0
+371,371,30,Male,Black or African American,"Not Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,3,3,1,1,0,0
+372,372,40,Female,White or Caucasian,"Not Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,4,3,0,0,0,0
+373,373,33,Male,White or Caucasian,"Not Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,1,2,0,0,0,0
+374,374,25,Male,White or Caucasian,"Not Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,1,1,0,0,0,0
+375,375,37,Female,White or Caucasian,"Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,1,2,0,0,0,0
+376,376,37,Male,White or Caucasian,"Not Hispanic, Latinx, or Spanish Origin",Former Smoker,2,2,0,1,0,1
+377,377,39,Male,Other,"Hispanic, Latinx, or Spanish Origin",Never Smoker,3,3,0,1,0,1
+378,378,51,Male,Black or African American,"Not Hispanic, Latinx, or Spanish Origin",Never Assessed,4,3,0,0,0,0
+379,379,26,Male,Black or African American,"Not Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,2,3,0,0,0,1
+380,380,26,Male,White or Caucasian,"Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,1,2,0,0,0,0
+381,381,31,Male,Black or African American,"Not Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,2,3,0,1,0,1
+382,382,35,Male,White or Caucasian,"Hispanic, Latinx, or Spanish Origin",Never Smoker,2,2,0,0,0,0
+383,383,29,Male,White or Caucasian,"Not Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,2,2,0,0,0,0
+384,384,47,Male,White or Caucasian,"Not Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,2,2,0,0,0,0
+385,385,36,Male,,*Unspecified,Heavy Tobacco Smoker,2,2,0,0,0,0
+386,386,49,Male,Black or African American,"Not Hispanic, Latinx, or Spanish Origin",Former Smoker,2,2,0,1,1,1
+387,387,33,Male,Other,"Not Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,2,3,0,0,0,0
+388,388,49,Male,White or Caucasian,"Hispanic, Latinx, or Spanish Origin",Never Assessed,3,2,0,0,0,0
+389,389,25,Male,,*Unspecified,*Unknown,4,1,0,0,0,0
+390,390,25,Male,White or Caucasian,"Hispanic, Latinx, or Spanish Origin",Never Smoker,1,2,1,1,1,1
+391,391,38,Male,Black or African American,"Not Hispanic, Latinx, or Spanish Origin",Former Smoker,1,2,0,0,0,0
+392,392,31,Male,White or Caucasian,"Not Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,2,3,0,0,0,0
+393,393,35,Male,White or Caucasian,"Not Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,3,3,0,0,0,1
+394,394,57,Male,,*Unspecified,*Unknown,3,2,0,0,0,0
+395,395,55,Male,Other,"Hispanic, Latinx, or Spanish Origin",Never Smoker,3,3,0,0,0,0
+396,396,24,Male,,*Unspecified,*Unknown,3,3,0,0,0,0
+397,397,28,Male,Other,"Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,2,1,0,1,0,1
+398,398,32,Female,White or Caucasian,"Hispanic, Latinx, or Spanish Origin",Never Assessed,3,3,0,0,0,0
+399,399,30,Male,Black or African American,"Not Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,2,3,0,0,0,0
+400,400,27,Male,Black or African American,"Not Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,2,3,0,1,0,0
+401,401,32,Male,White or Caucasian,"Not Hispanic, Latinx, or Spanish Origin",Former Smoker,2,3,0,0,1,1
+402,402,28,Male,Decline to Answer,Decline to Answer,Light Tobacco Smoker,1,2,0,0,0,0
+403,403,34,Male,,*Unspecified,*Unknown,1,2,0,0,0,0
+404,404,25,Male,Black or African American,"Not Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,1,3,0,1,0,0
+405,405,31,Male,,*Unspecified,*Unknown,1,2,0,0,0,0
+406,406,42,Male,White or Caucasian,"Not Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,1,1,0,0,0,0
+407,407,36,Female,,*Unspecified,*Unknown,2,3,0,0,0,0
+408,408,23,Male,Other,"Hispanic, Latinx, or Spanish Origin",Never Smoker,1,1,0,0,0,0
+409,409,31,Male,White or Caucasian,"Not Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,1,1,0,0,0,1
+410,410,41,Female,White or Caucasian,"Not Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,2,3,0,0,0,0
+411,411,31,Male,Other,"Not Hispanic, Latinx, or Spanish Origin",Current Some Day Smoker,3,3,1,1,0,0
+412,412,32,Female,Black or African American,"Not Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,4,3,0,0,0,0
+413,413,41,Female,Other,"Hispanic, Latinx, or Spanish Origin",Passive Smoke Exposure - Never Smoker,3,3,0,0,1,1
+414,414,31,Male,,*Unspecified,*Unknown,1,3,0,0,0,0
+415,415,32,Male,,*Unspecified,*Unknown,3,3,0,0,0,0
+416,416,45,Male,Black or African American,"Not Hispanic, Latinx, or Spanish Origin",*Unknown,2,3,0,0,0,0
+417,417,56,Male,Black or African American,"Not Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,3,3,0,1,0,1
+418,418,28,Male,White or Caucasian,"Hispanic, Latinx, or Spanish Origin",Light Tobacco Smoker,3,3,0,0,0,0
+419,419,29,Female,American Indian or Alaska Native,"Not Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,2,3,1,1,1,1
+420,420,51,Female,,*Unspecified,*Unknown,1,3,0,0,0,0
+421,421,24,Male,White or Caucasian,"Not Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,2,2,1,1,0,0
+422,422,29,Male,Black or African American,"Not Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,1,3,0,1,0,1
+423,423,62,Male,Black or African American,"Not Hispanic, Latinx, or Spanish Origin",Former Smoker,4,2,0,0,0,0
+424,424,22,Male,,*Unspecified,*Unknown,3,3,0,0,0,0
+425,425,28,Male,White or Caucasian,"Not Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,1,2,0,0,0,0
+426,426,40,Male,White or Caucasian,"Not Hispanic, Latinx, or Spanish Origin",Former Smoker,3,2,0,0,1,1
+427,427,40,Male,,*Unspecified,*Unknown,2,2,0,0,0,0
+428,428,39,Male,,*Unspecified,*Unknown,3,3,0,0,0,0
+429,429,37,Male,White or Caucasian,"Not Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,2,2,0,0,0,0
+430,430,26,Male,,*Unspecified,*Unknown,2,3,0,0,0,0
+431,431,47,Male,Black or African American,"Not Hispanic, Latinx, or Spanish Origin",Never Smoker,3,3,0,1,0,1
+432,432,68,Male,White or Caucasian,"Hispanic, Latinx, or Spanish Origin",Former Smoker,3,2,1,1,1,1
+433,433,42,Male,Black or African American,"Not Hispanic, Latinx, or Spanish Origin",*Unknown,2,3,0,0,0,0
+434,434,28,Male,White or Caucasian,"Not Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,3,3,0,0,0,0
+435,435,26,Female,White or Caucasian,"Not Hispanic, Latinx, or Spanish Origin",Never Smoker,1,3,0,0,0,0
+436,436,36,Male,,*Unspecified,*Unknown,2,3,0,0,0,0
+437,437,41,Male,White or Caucasian,"Not Hispanic, Latinx, or Spanish Origin",Never Smoker,2,2,0,0,0,0
+438,438,35,Male,,*Unspecified,*Unknown,2,2,0,0,0,0
+439,439,25,Male,Other,"Hispanic, Latinx, or Spanish Origin",Never Smoker,1,3,0,0,0,0
+440,440,23,Male,Black or African American,"Not Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,2,3,1,1,0,0
+441,441,48,Male,,*Unspecified,*Unknown,3,2,0,0,0,0
+442,442,53,Male,Black or African American,"Not Hispanic, Latinx, or Spanish Origin",*Unknown,2,1,0,0,0,0
+443,443,52,Female,,*Unspecified,*Unknown,3,3,0,0,0,0
+444,444,32,Male,Black or African American,"Not Hispanic, Latinx, or Spanish Origin",Never Smoker,3,3,0,0,0,0
+445,445,42,Female,White or Caucasian,"Not Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,2,3,0,1,0,1
+446,446,40,Male,,*Unspecified,*Unknown,1,1,0,0,0,0
+447,447,34,Male,White or Caucasian,"Not Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,3,3,1,1,1,1
+448,448,50,Male,White or Caucasian,"Not Hispanic, Latinx, or Spanish Origin",Never Smoker,2,3,1,1,0,0
+449,449,57,Male,,*Unspecified,*Unknown,3,2,0,0,0,0
+450,450,31,Male,Black or African American,"Not Hispanic, Latinx, or Spanish Origin",Never Smoker,2,2,0,1,0,0
+451,451,47,Male,White or Caucasian,"Hispanic, Latinx, or Spanish Origin",Former Smoker,4,2,0,0,0,0
+452,452,59,Male,White or Caucasian,"Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,4,3,0,1,0,0
+453,453,45,Male,White or Caucasian,"Not Hispanic, Latinx, or Spanish Origin",Former Smoker,3,3,1,1,1,1
+454,454,32,Female,White or Caucasian,"Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,1,3,0,0,0,1
+455,455,39,Male,White or Caucasian,"Hispanic, Latinx, or Spanish Origin",Current Some Day Smoker,2,2,0,0,1,1
+456,456,56,Male,White or Caucasian,"Not Hispanic, Latinx, or Spanish Origin",Current Some Day Smoker,2,2,0,0,0,0
+457,457,50,Male,White or Caucasian,"Not Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,3,2,0,0,1,1
+458,458,42,Male,Other,"Not Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,3,3,0,0,0,0
+459,459,58,Male,White or Caucasian,"Hispanic, Latinx, or Spanish Origin",Never Assessed,1,2,0,1,0,1
+460,460,47,Male,,*Unspecified,*Unknown,3,2,0,0,0,0
+461,461,41,Male,,*Unspecified,*Unknown,3,3,0,0,0,0
+462,462,52,Male,,*Unspecified,*Unknown,1,1,0,0,0,0
+463,463,41,Male,White or Caucasian,"Not Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,2,3,0,0,0,0
+464,464,47,Male,,*Unspecified,*Unknown,3,2,0,0,0,0
+465,465,26,Male,White or Caucasian,"Hispanic, Latinx, or Spanish Origin",Unknown If Ever Smoked,1,2,0,0,0,0
+466,466,26,Male,White or Caucasian,"Not Hispanic, Latinx, or Spanish Origin",Current Some Day Smoker,3,1,0,1,0,0
+467,467,57,Male,White or Caucasian,"Not Hispanic, Latinx, or Spanish Origin",Heavy Tobacco Smoker,3,2,0,0,0,1
+468,468,31,Male,White or Caucasian,"Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,3,2,0,0,1,1
+469,469,47,Male,,*Unspecified,*Unknown,2,2,0,0,0,0
+470,470,31,Male,White or Caucasian,"Hispanic, Latinx, or Spanish Origin","Smoker, Current Status Unknown",1,3,0,1,0,1
+471,471,39,Male,White or Caucasian,"Not Hispanic, Latinx, or Spanish Origin",Never Smoker,2,3,0,0,1,1
+472,472,37,Male,White or Caucasian,"Not Hispanic, Latinx, or Spanish Origin",Former Smoker,2,3,0,0,1,1
+473,473,50,Male,,*Unspecified,*Unknown,1,2,0,0,0,0
+474,474,31,Male,American Indian or Alaska Native,"Not Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,3,3,0,0,0,0
+475,475,29,Male,White or Caucasian,"Not Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,2,2,0,0,0,0
+476,476,33,Male,,*Unspecified,*Unknown,1,2,0,0,0,0
+477,477,34,Female,,*Unspecified,*Unknown,2,3,0,0,0,0
+478,478,38,Male,Other,"Hispanic, Latinx, or Spanish Origin",Never Assessed,2,3,0,0,0,0
+479,479,31,Male,White or Caucasian,"Not Hispanic, Latinx, or Spanish Origin",Heavy Tobacco Smoker,2,2,0,0,0,0
+480,480,46,Male,,*Unspecified,*Unknown,2,2,0,0,0,0
+481,481,28,Male,White or Caucasian,"Not Hispanic, Latinx, or Spanish Origin",*Unknown,2,2,0,0,0,0
+482,482,37,Male,White or Caucasian,"Not Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,2,3,0,0,0,0
+483,483,40,Male,,*Unspecified,*Unknown,1,2,0,0,0,0
+484,484,39,Male,Black or African American,"Not Hispanic, Latinx, or Spanish Origin",Never Smoker,4,2,0,0,1,1
+485,485,45,Male,White or Caucasian,"Not Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,2,2,0,1,0,0
+486,486,34,Male,White or Caucasian,"Not Hispanic, Latinx, or Spanish Origin",Former Smoker,2,2,0,1,0,1
+487,487,37,Male,White or Caucasian,"Not Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,2,3,0,1,1,1
+488,488,38,Male,,*Unspecified,*Unknown,2,2,0,0,0,0
+489,489,27,Male,White or Caucasian,"Not Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,3,3,0,0,0,0
+490,490,42,Female,White or Caucasian,"Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,3,3,0,0,0,1
+491,491,31,Male,Other,"Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,4,2,0,0,1,1
+492,492,24,Male,White or Caucasian,"Not Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,3,2,0,1,0,0
+493,493,27,Male,,*Unspecified,Former Smoker,2,2,0,0,0,0
+494,494,28,Male,Black or African American,"Not Hispanic, Latinx, or Spanish Origin",*Unknown,2,3,0,0,1,1
+495,495,58,Male,,*Unspecified,*Unknown,1,1,0,0,0,0
+496,496,34,Male,Black or African American,"Not Hispanic, Latinx, or Spanish Origin",Never Smoker,1,2,0,0,0,0
+497,497,30,Male,Black or African American,"Hispanic, Latinx, or Spanish Origin",Former Smoker,2,2,0,1,0,0
+498,498,51,Male,White or Caucasian,"Not Hispanic, Latinx, or Spanish Origin",Former Smoker,2,2,0,0,0,0
+499,499,28,Male,White or Caucasian,"Hispanic, Latinx, or Spanish Origin",Never Smoker,2,2,1,1,1,1
+500,500,50,Male,White or Caucasian,"Hispanic, Latinx, or Spanish Origin",Current Some Day Smoker,3,2,0,0,0,1
+501,501,38,Male,White or Caucasian,"Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,1,2,0,0,0,0
+502,502,30,Male,White or Caucasian,"Hispanic, Latinx, or Spanish Origin",Never Smoker,3,3,0,0,1,1
+503,503,56,Male,White or Caucasian,"Not Hispanic, Latinx, or Spanish Origin",Former Smoker,2,2,0,0,0,0
+504,504,46,Male,,*Unspecified,*Unknown,1,2,0,0,0,0
+505,505,32,Male,,*Unspecified,*Unknown,2,2,0,0,0,0
+506,506,25,Male,,*Unspecified,*Unknown,1,2,0,0,0,0
+507,507,37,Male,White or Caucasian,"Not Hispanic, Latinx, or Spanish Origin",*Unknown,1,2,0,0,0,0
+508,508,35,Male,White or Caucasian,"Hispanic, Latinx, or Spanish Origin",Never Smoker,1,2,0,0,0,0
+509,509,32,Male,,*Unspecified,*Unknown,1,2,0,0,0,0
+510,510,41,Male,White or Caucasian,"Not Hispanic, Latinx, or Spanish Origin",*Unknown,2,2,0,0,0,0
+511,511,37,Male,White or Caucasian,"Hispanic, Latinx, or Spanish Origin",Never Smoker,2,3,1,1,0,1
+512,512,26,Male,,*Unspecified,*Unknown,1,3,0,0,0,0
+513,513,37,Male,White or Caucasian,"Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,1,2,1,1,1,1
+514,514,36,Female,White or Caucasian,"Not Hispanic, Latinx, or Spanish Origin",Current Some Day Smoker,3,3,0,0,0,0
+515,515,38,Male,White or Caucasian,"Not Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,3,3,1,1,0,1
+516,516,27,Male,White or Caucasian,"Not Hispanic, Latinx, or Spanish Origin",*Unknown,1,2,0,0,0,0
+517,517,34,Male,Black or African American,"Not Hispanic, Latinx, or Spanish Origin",*Unknown,1,2,0,0,0,0
+518,518,39,Male,White or Caucasian,"Not Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,3,3,0,0,0,0
+519,519,28,Male,White or Caucasian,"Hispanic, Latinx, or Spanish Origin",Current Some Day Smoker,2,2,0,0,1,1
+520,520,41,Male,Black or African American,"Not Hispanic, Latinx, or Spanish Origin",*Unknown,4,3,0,0,0,0
+521,521,27,Male,White or Caucasian,"Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,1,2,0,1,0,0
+522,522,28,Male,White or Caucasian,"Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,2,3,0,0,0,0
+523,523,56,Male,,"Hispanic, Latinx, or Spanish Origin",Never Smoker,2,2,0,0,0,0
+524,524,49,Male,White or Caucasian,"Not Hispanic, Latinx, or Spanish Origin",Never Smoker,3,3,0,0,1,1
+525,525,35,Female,White or Caucasian,"Hispanic, Latinx, or Spanish Origin",Never Smoker,2,2,0,0,0,0
+526,526,58,Male,White or Caucasian,"Hispanic, Latinx, or Spanish Origin",Former Smoker,3,3,1,1,0,1
+527,527,34,Male,White or Caucasian,"Not Hispanic, Latinx, or Spanish Origin",Never Smoker,4,3,0,1,0,1
+528,528,31,Female,White or Caucasian,"Not Hispanic, Latinx, or Spanish Origin",Heavy Tobacco Smoker,3,3,0,0,0,0
+529,529,53,Male,White or Caucasian,"Not Hispanic, Latinx, or Spanish Origin","Smoker, Current Status Unknown",2,2,0,0,0,0
+530,530,26,Male,Black or African American,"Not Hispanic, Latinx, or Spanish Origin",Never Smoker,2,3,0,0,0,0
+531,531,35,Male,White or Caucasian,"Hispanic, Latinx, or Spanish Origin",Unknown If Ever Smoked,1,3,0,1,0,0
+532,532,36,Male,White or Caucasian,"Hispanic, Latinx, or Spanish Origin",Never Smoker,2,2,0,0,0,0
+533,533,34,Male,White or Caucasian,"Not Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,1,1,0,0,1,1
+534,534,41,Male,,*Unspecified,*Unknown,2,2,0,0,0,0
+535,535,34,Male,White or Caucasian,"Not Hispanic, Latinx, or Spanish Origin",Former Smoker,3,3,0,0,1,1
+536,536,58,Male,Decline to Answer,Decline to Answer,Never Smoker,2,3,0,0,0,0
+537,537,35,Male,Black or African American,"Not Hispanic, Latinx, or Spanish Origin",*Unknown,3,3,0,0,0,0
+538,538,33,Male,White or Caucasian,"Not Hispanic, Latinx, or Spanish Origin",Never Smoker,1,2,0,1,0,0
+539,539,42,Male,,*Unspecified,*Unknown,4,3,0,0,0,0
+540,540,58,Female,American Indian or Alaska Native,"Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,3,3,0,1,0,1
+541,541,44,Male,White or Caucasian,"Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,2,3,0,0,0,0
+542,542,36,Male,White or Caucasian,"Not Hispanic, Latinx, or Spanish Origin",Never Smoker,1,3,0,0,1,1
+543,543,62,Male,White or Caucasian,"Not Hispanic, Latinx, or Spanish Origin",Former Smoker,3,3,0,0,0,0
+544,544,55,Male,Black or African American,"Not Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,2,3,0,0,0,0
+545,545,23,Female,White or Caucasian,"Not Hispanic, Latinx, or Spanish Origin",Never Smoker,3,3,0,0,0,0
+546,546,29,Male,White or Caucasian,"Not Hispanic, Latinx, or Spanish Origin",Former Smoker,2,3,0,0,0,0
+547,547,61,Male,White or Caucasian,"Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,2,3,0,0,0,0
+548,548,38,Male,White or Caucasian,"Not Hispanic, Latinx, or Spanish Origin",Never Smoker,1,2,0,0,0,0
+549,549,38,Male,Black or African American,"Not Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,2,2,0,0,1,1
+550,550,38,Male,,*Unspecified,*Unknown,2,2,0,0,0,0
+551,551,36,Male,White or Caucasian,"Not Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,3,3,0,1,0,1
+552,552,59,Male,White or Caucasian,"Not Hispanic, Latinx, or Spanish Origin",Never Assessed,2,2,0,0,0,0
+553,553,22,Male,White or Caucasian,"Not Hispanic, Latinx, or Spanish Origin",Never Assessed,1,2,0,0,0,0
+554,554,45,Male,,*Unspecified,*Unknown,1,2,0,0,0,0
+555,555,25,Male,Black or African American,"Not Hispanic, Latinx, or Spanish Origin",Never Smoker,2,1,0,0,0,0
+556,556,30,Male,Black or African American,"Not Hispanic, Latinx, or Spanish Origin",Never Smoker,1,2,0,0,0,0
+557,557,50,Male,White or Caucasian,"Hispanic, Latinx, or Spanish Origin",Never Smoker,2,1,0,0,1,1
+558,558,53,Male,White or Caucasian,"Not Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,3,2,0,1,0,1
+559,559,34,Male,Black or African American,Decline to Answer,Current Every Day Smoker,1,2,0,1,0,0
+560,560,30,Male,White or Caucasian,"Not Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,2,3,0,0,0,0
+561,561,52,Female,White or Caucasian,"Not Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,3,2,0,0,0,0
+562,562,25,Male,Black or African American,"Not Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,1,1,0,0,0,0
+563,563,40,Female,,*Unspecified,*Unknown,1,2,0,0,0,0
+564,564,25,Male,White or Caucasian,"Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,4,2,0,0,0,1
+565,565,35,Male,,*Unspecified,*Unknown,2,2,0,0,0,0
+566,566,52,Male,Black or African American,"Not Hispanic, Latinx, or Spanish Origin",Never Smoker,1,2,0,0,0,0
+567,567,29,Male,White or Caucasian,"Hispanic, Latinx, or Spanish Origin",Current Some Day Smoker,2,2,0,1,0,0
+568,568,32,Male,Black or African American,"Not Hispanic, Latinx, or Spanish Origin",Heavy Tobacco Smoker,1,3,0,0,0,1
+569,569,34,Female,White or Caucasian,"Not Hispanic, Latinx, or Spanish Origin",*Unknown,3,2,0,0,0,0
+570,570,58,Male,White or Caucasian,"Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,2,1,0,0,1,1
+571,571,41,Male,White or Caucasian,"Hispanic, Latinx, or Spanish Origin",Current Some Day Smoker,2,2,0,0,0,0
+572,572,53,Male,White or Caucasian,"Not Hispanic, Latinx, or Spanish Origin",Current Some Day Smoker,3,3,1,1,0,0
+573,573,55,Male,White or Caucasian,"Hispanic, Latinx, or Spanish Origin",Former Smoker,2,2,0,1,0,1
+574,574,36,Male,White or Caucasian,"Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,1,2,0,0,0,0
+575,575,28,Male,White or Caucasian,"Not Hispanic, Latinx, or Spanish Origin",Never Smoker,2,2,0,0,0,0
+576,576,50,Female,White or Caucasian,"Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,2,3,0,0,0,0
+577,577,29,Male,White or Caucasian,"Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,2,2,0,0,0,0
+578,578,38,Female,White or Caucasian,"Not Hispanic, Latinx, or Spanish Origin",Never Smoker,3,1,0,0,0,0
+579,579,38,Male,White or Caucasian,"Not Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,1,2,0,0,0,1
+580,580,35,Male,Asian,Decline to Answer,Current Every Day Smoker,2,1,0,0,0,1
+581,581,28,Male,,*Unspecified,*Unknown,2,1,0,0,0,0
+582,582,52,Male,,*Unspecified,*Unknown,2,2,0,0,0,0
+583,583,27,Male,,*Unspecified,*Unknown,1,4,0,0,0,0
+584,584,37,Male,Other,"Hispanic, Latinx, or Spanish Origin",Never Smoker,2,3,0,0,1,1
+585,585,40,Male,White or Caucasian,"Not Hispanic, Latinx, or Spanish Origin",Former Smoker,3,3,0,0,0,0
+586,586,61,Male,,*Unspecified,*Unknown,3,2,0,0,0,0
+587,587,53,Male,White or Caucasian,"Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,1,3,0,1,0,1
+588,588,23,Male,Black or African American,"Not Hispanic, Latinx, or Spanish Origin",*Unknown,1,2,0,0,0,1
+589,589,49,Male,White or Caucasian,"Hispanic, Latinx, or Spanish Origin",Former Smoker,2,3,0,0,1,1
+590,590,45,Male,,*Unspecified,*Unknown,3,2,0,0,0,0
+591,591,21,Male,Other,"Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,1,3,0,0,0,1
+592,592,24,Male,White or Caucasian,"Hispanic, Latinx, or Spanish Origin",Former Smoker,3,2,0,0,0,0
+593,593,27,Male,Decline to Answer,"Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,2,3,0,1,0,0
+594,594,40,Male,,*Unspecified,*Unknown,2,3,0,0,0,0
+595,595,25,Female,Black or African American,"Not Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,1,3,0,0,0,0
+596,596,46,Male,White or Caucasian,"Not Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,2,3,0,0,0,0
+597,597,33,Male,,*Unspecified,Current Every Day Smoker,1,2,0,0,0,0
+598,598,51,Female,White or Caucasian,"Not Hispanic, Latinx, or Spanish Origin",Unknown If Ever Smoked,2,3,0,0,0,0
+599,599,45,Male,White or Caucasian,"Not Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,3,3,1,1,1,1
+600,600,53,Male,White or Caucasian,"Hispanic, Latinx, or Spanish Origin",Current Some Day Smoker,1,2,0,0,0,0
+601,601,47,Male,White or Caucasian,"Not Hispanic, Latinx, or Spanish Origin",Never Smoker,1,3,0,0,0,0
+602,602,37,Male,Other,"Hispanic, Latinx, or Spanish Origin",Light Tobacco Smoker,1,2,0,1,0,1
+603,603,21,Female,White or Caucasian,"Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,1,2,0,0,0,0
+604,604,38,Male,White or Caucasian,"Not Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,3,3,0,0,0,0
+605,605,53,Male,,*Unspecified,*Unknown,2,3,0,0,0,0
+606,606,45,Male,Other,"Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,2,3,0,1,0,0
+607,607,37,Male,,*Unspecified,*Unknown,1,3,0,0,0,0
+608,608,27,Male,,*Unspecified,*Unknown,2,3,0,0,0,0
+609,609,44,Male,,*Unspecified,*Unknown,2,1,0,0,0,0
+610,610,41,Female,Other,"Not Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,1,3,0,1,0,0
+611,611,39,Male,,*Unspecified,*Unknown,1,2,0,0,0,0
+612,612,34,Male,,*Unspecified,Never Smoker,2,3,0,0,0,0
+613,613,43,Male,American Indian or Alaska Native,"Not Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,1,2,0,0,0,0
+614,614,55,Male,Other,"Hispanic, Latinx, or Spanish Origin",Never Smoker,3,2,0,0,0,1
+615,615,40,Male,,*Unspecified,*Unknown,1,2,0,0,0,0
+616,616,28,Male,,*Unspecified,*Unknown,3,4,0,0,0,0
+617,617,32,Male,Black or African American,"Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,3,2,0,1,0,1
+618,618,43,Male,White or Caucasian,"Not Hispanic, Latinx, or Spanish Origin",Current Some Day Smoker,2,3,0,0,0,0
+619,619,20,Female,White or Caucasian,"Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,3,4,0,0,0,0
+620,620,49,Female,White or Caucasian,"Hispanic, Latinx, or Spanish Origin",Never Smoker,3,3,0,0,0,0
+621,621,48,Male,,*Unspecified,*Unknown,1,2,0,0,0,0
+622,622,52,Male,,*Unspecified,*Unknown,2,1,0,0,0,0
+623,623,57,Male,White or Caucasian,"Not Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,2,2,0,0,0,0
+624,624,36,Male,White or Caucasian,"Not Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,2,2,0,0,0,0
+625,625,50,Male,White or Caucasian,"Not Hispanic, Latinx, or Spanish Origin",Light Tobacco Smoker,4,2,0,0,0,1
+626,626,49,Male,,*Unspecified,*Unknown,2,2,0,0,0,0
+627,627,34,Male,,*Unspecified,*Unknown,1,3,0,0,0,0
+628,628,40,Male,Other,"Not Hispanic, Latinx, or Spanish Origin",Current Some Day Smoker,2,2,0,0,0,0
+629,629,28,Male,Other,"Hispanic, Latinx, or Spanish Origin",Former Smoker,1,2,0,0,0,0
+630,630,31,Male,White or Caucasian,"Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,4,2,0,1,0,1
+631,631,37,Female,Black or African American,"Not Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,3,3,0,0,0,0
+632,632,37,Female,Black or African American,"Not Hispanic, Latinx, or Spanish Origin",Former Smoker,3,3,0,0,0,0
+633,633,57,Male,Black or African American,"Not Hispanic, Latinx, or Spanish Origin",Never Smoker,2,3,0,0,0,0
+634,634,31,Male,Other,"Hispanic, Latinx, or Spanish Origin",Never Smoker,1,1,0,1,0,1
+635,635,37,Male,,*Unspecified,*Unknown,1,3,0,0,0,0
+636,636,25,Female,,*Unspecified,*Unknown,3,2,0,0,0,0
+637,637,43,Male,White or Caucasian,"Not Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,3,2,0,1,1,1
+638,638,57,Male,,*Unspecified,*Unknown,2,1,0,0,0,0
+639,639,52,Male,Decline to Answer,Decline to Answer,*Unknown,2,3,0,0,0,0
+640,640,34,Male,,*Unspecified,*Unknown,3,3,0,0,0,0
+641,641,51,Male,White or Caucasian,"Not Hispanic, Latinx, or Spanish Origin",Former Smoker,2,3,0,0,0,1
+642,642,35,Male,,*Unspecified,*Unknown,1,2,0,0,0,0
+643,643,28,Male,White or Caucasian,"Not Hispanic, Latinx, or Spanish Origin",Never Smoker,1,3,0,1,0,1
+644,644,40,Male,White or Caucasian,"Not Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,3,3,0,1,0,0
+645,645,30,Male,Black or African American,"Not Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,1,3,0,0,0,0
+646,646,38,Male,White or Caucasian,"Hispanic, Latinx, or Spanish Origin",Never Smoker,2,3,0,0,1,1
+647,647,32,Male,White or Caucasian,"Not Hispanic, Latinx, or Spanish Origin",Current Some Day Smoker,2,3,1,1,0,0
+648,648,58,Male,White or Caucasian,"Not Hispanic, Latinx, or Spanish Origin",*Unknown,4,3,1,1,1,1
+649,649,23,Male,Other,"Not Hispanic, Latinx, or Spanish Origin",Never Assessed,2,2,0,1,0,1
+650,650,36,Male,,*Unspecified,*Unknown,2,2,0,0,0,0
+651,651,50,Male,White or Caucasian,"Not Hispanic, Latinx, or Spanish Origin",*Unknown,3,2,0,0,0,0
+652,652,38,Male,,*Unspecified,*Unknown,1,2,0,0,0,0
+653,653,24,Female,White or Caucasian,"Hispanic, Latinx, or Spanish Origin",Former Smoker,1,4,0,0,0,0
+654,654,47,Male,White or Caucasian,"Not Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,3,2,0,0,0,0
+655,655,28,Female,Black or African American,"Not Hispanic, Latinx, or Spanish Origin",Never Smoker,1,1,0,0,0,0
+656,656,33,Male,,*Unspecified,*Unknown,1,2,0,0,0,0
+657,657,39,Male,Black or African American,"Not Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,3,3,0,0,0,1
+658,658,31,Male,Black or African American,"Not Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,2,2,1,1,0,0
+659,659,30,Male,,*Unspecified,*Unknown,1,3,0,0,0,0
+660,660,37,Male,White or Caucasian,"Not Hispanic, Latinx, or Spanish Origin",*Unknown,1,2,0,0,0,0
+661,661,31,Male,,*Unspecified,*Unknown,1,2,0,0,0,0
+662,662,60,Male,White or Caucasian,"Not Hispanic, Latinx, or Spanish Origin",Never Assessed,3,2,0,0,0,0
+663,663,28,Male,White or Caucasian,"Not Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,3,3,0,0,0,0
+664,664,22,Male,White or Caucasian,"Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,2,2,0,1,0,1
+665,665,37,Male,Asian,"Not Hispanic, Latinx, or Spanish Origin",Never Smoker,3,2,0,0,0,0
+666,666,34,Male,,*Unspecified,*Unknown,1,2,0,0,0,0
+667,667,28,Male,Other,"Hispanic, Latinx, or Spanish Origin",Unknown If Ever Smoked,1,2,0,1,0,0
+668,668,26,Male,White or Caucasian,"Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,1,2,1,1,1,1
+669,669,36,Male,,*Unspecified,*Unknown,3,2,0,0,0,0
+670,670,24,Male,White or Caucasian,"Not Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,2,3,0,0,0,0
+671,671,50,Male,,*Unspecified,*Unknown,3,3,0,0,0,0
+672,672,39,Female,,*Unspecified,*Unknown,3,3,0,0,0,0
+673,673,38,Female,White or Caucasian,"Not Hispanic, Latinx, or Spanish Origin",Unknown If Ever Smoked,1,3,0,0,0,0
+674,674,28,Male,White or Caucasian,"Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,1,3,0,0,0,0
+675,675,51,Male,White or Caucasian,"Not Hispanic, Latinx, or Spanish Origin",Former Smoker,2,2,0,0,0,0
+676,676,33,Male,White or Caucasian,"Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,2,3,0,0,0,0
+677,677,28,Male,White or Caucasian,"Not Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,1,3,0,0,0,0
+678,678,35,Male,White or Caucasian,"Hispanic, Latinx, or Spanish Origin",Never Smoker,1,3,0,0,0,0
+679,679,45,Male,Black or African American,"Not Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,3,3,0,0,0,0
+680,680,35,Male,White or Caucasian,"Not Hispanic, Latinx, or Spanish Origin",Light Tobacco Smoker,2,2,0,0,0,0
+681,681,23,Male,White or Caucasian,"Not Hispanic, Latinx, or Spanish Origin",Never Smoker,1,1,0,0,0,0
+682,682,54,Male,Other,"Hispanic, Latinx, or Spanish Origin",Former Smoker,2,2,0,0,0,1
+683,683,34,Male,,*Unspecified,*Unknown,1,2,0,0,0,0
+684,684,28,Male,,*Unspecified,*Unknown,1,2,0,0,0,0
+685,685,50,Male,White or Caucasian,"Hispanic, Latinx, or Spanish Origin",Never Smoker,4,3,0,0,0,0
+686,686,58,Male,White or Caucasian,Decline to Answer,Current Every Day Smoker,3,2,0,1,1,1
+687,687,47,Male,White or Caucasian,"Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,3,3,0,1,0,0
+688,688,25,Male,,*Unspecified,*Unknown,1,2,0,0,0,0
+689,689,46,Male,White or Caucasian,"Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,3,3,0,0,0,0
+690,690,29,Male,,*Unspecified,*Unknown,1,2,0,0,0,0
+691,691,47,Male,White or Caucasian,"Not Hispanic, Latinx, or Spanish Origin",Never Smoker,1,2,0,0,0,0
+692,692,32,Male,,*Unspecified,*Unknown,1,2,0,0,0,0
+693,693,53,Male,White or Caucasian,"Not Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,2,2,0,1,1,1
+694,694,37,Male,White or Caucasian,"Not Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,3,3,1,1,0,0
+695,695,29,Male,,*Unspecified,*Unknown,1,1,0,0,0,0
+696,696,49,Male,Black or African American,"Not Hispanic, Latinx, or Spanish Origin",Never Smoker,3,3,0,0,0,0
+697,697,28,Male,Black or African American,"Not Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,3,2,0,0,0,0
+698,698,59,Male,White or Caucasian,Decline to Answer,*Unknown,2,3,0,0,1,1
+699,699,31,Male,,*Unspecified,*Unknown,2,3,0,0,0,0
+700,700,42,Male,,*Unspecified,*Unknown,1,2,0,0,0,0
+701,701,52,Male,White or Caucasian,"Hispanic, Latinx, or Spanish Origin",Never Smoker,2,2,0,0,0,0
+702,702,35,Male,,*Unspecified,*Unknown,2,2,0,0,0,0
+703,703,36,Male,,*Unspecified,*Unknown,1,3,0,0,0,0
+704,704,23,Male,,*Unspecified,*Unknown,1,2,0,0,0,0
+705,705,38,Female,White or Caucasian,"Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,3,3,0,0,0,0
+706,706,23,Male,Other,"Hispanic, Latinx, or Spanish Origin",Passive Smoke Exposure - Never Smoker,1,2,0,0,0,0
+707,707,53,Male,White or Caucasian,"Not Hispanic, Latinx, or Spanish Origin",Never Assessed,3,3,0,0,0,0
+708,708,39,Male,White or Caucasian,"Not Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,2,2,0,0,0,0
+709,709,31,Male,White or Caucasian,"Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,2,3,0,0,0,0
+710,710,30,Female,,*Unspecified,*Unknown,1,3,0,0,0,0
+711,711,38,Male,Black or African American,"Not Hispanic, Latinx, or Spanish Origin",Former Smoker,3,1,0,0,0,0
+712,712,41,Male,Black or African American,"Not Hispanic, Latinx, or Spanish Origin",Former Smoker,2,3,1,1,1,1
+713,713,36,Male,,*Unspecified,*Unknown,1,2,0,0,0,0
+714,714,53,Male,,*Unspecified,*Unknown,1,3,0,0,0,0
+715,715,38,Male,Asian,"Not Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,3,2,0,1,0,1
+716,716,50,Male,Black or African American,Decline to Answer,Current Every Day Smoker,1,2,0,0,0,1
+717,717,52,Male,,*Unspecified,*Unknown,2,1,0,0,0,0
+718,718,45,Female,White or Caucasian,"Not Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,3,3,0,0,0,0
+719,719,53,Male,,*Unspecified,*Unknown,2,2,0,0,0,0
+720,720,30,Male,White or Caucasian,"Not Hispanic, Latinx, or Spanish Origin",*Unknown,2,2,0,0,1,1
+721,721,30,Male,White or Caucasian,"Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,1,2,0,0,0,0
+722,722,25,Male,Other,"Hispanic, Latinx, or Spanish Origin",Never Assessed,2,2,0,0,0,0
+723,723,21,Male,Black or African American,*Unspecified,*Unknown,1,2,0,0,0,0
+724,724,26,Male,White or Caucasian,"Not Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,2,3,0,0,0,0
+725,725,28,Male,White or Caucasian,"Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,2,3,0,0,0,0
+726,726,25,Male,White or Caucasian,"Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,3,3,0,1,1,1
+727,727,32,Male,,*Unspecified,*Unknown,1,2,0,0,0,0
+728,728,36,Male,White or Caucasian,"Not Hispanic, Latinx, or Spanish Origin",Never Smoker,1,2,0,0,0,0
+729,729,39,Male,,*Unspecified,*Unknown,3,3,0,0,0,0
+730,730,28,Female,White or Caucasian,"Not Hispanic, Latinx, or Spanish Origin",Never Assessed,3,3,0,0,0,0
+731,731,23,Male,White or Caucasian,"Not Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,2,3,0,0,0,0
+732,732,28,Male,White or Caucasian,"Hispanic, Latinx, or Spanish Origin",Never Smoker,1,2,0,0,0,0
+733,733,36,Male,White or Caucasian,"Not Hispanic, Latinx, or Spanish Origin",Former Smoker,1,2,0,0,0,0
+734,734,33,Male,White or Caucasian,"Not Hispanic, Latinx, or Spanish Origin",Never Smoker,3,2,0,0,0,0
+735,735,38,Male,Black or African American,"Not Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,3,3,1,1,1,1
+736,736,31,Male,,*Unspecified,*Unknown,1,2,0,0,0,0
+737,737,26,Male,Black or African American,"Not Hispanic, Latinx, or Spanish Origin",*Unknown,2,3,0,0,0,0
+738,738,33,Male,White or Caucasian,"Not Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,3,3,0,0,0,0
+739,739,43,Male,White or Caucasian,"Hispanic, Latinx, or Spanish Origin",Former Smoker,3,3,1,1,1,1
+740,740,29,Male,,*Unspecified,*Unknown,2,3,0,0,0,0
+741,741,25,Female,White or Caucasian,"Not Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,4,3,0,0,0,0
+742,742,39,Male,Black or African American,"Not Hispanic, Latinx, or Spanish Origin",Current Some Day Smoker,1,3,0,1,0,0
+743,743,61,Male,,*Unspecified,*Unknown,2,2,0,0,0,0
+744,744,26,Male,,*Unspecified,*Unknown,2,3,0,0,0,0
+745,745,41,Male,,*Unspecified,*Unknown,2,2,0,0,0,0
+746,746,37,Male,White or Caucasian,"Not Hispanic, Latinx, or Spanish Origin",*Unknown,2,2,0,1,0,1
+747,747,30,Male,Black or African American,"Not Hispanic, Latinx, or Spanish Origin",Heavy Tobacco Smoker,3,2,0,0,0,0
+748,748,63,Male,White or Caucasian,"Not Hispanic, Latinx, or Spanish Origin",Never Smoker,5,1,0,1,0,1
+749,749,55,Male,Black or African American,"Not Hispanic, Latinx, or Spanish Origin",Former Smoker,3,3,0,0,0,0
+750,750,35,Male,Black or African American,"Not Hispanic, Latinx, or Spanish Origin",Current Some Day Smoker,1,3,0,0,0,0
+751,751,30,Male,Black or African American,"Not Hispanic, Latinx, or Spanish Origin",Former Smoker,3,3,1,1,0,1
+752,752,46,Male,Native Hawaiian,"Not Hispanic, Latinx, or Spanish Origin",*Unknown,2,2,0,0,0,0
+753,753,39,Female,White or Caucasian,"Not Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,3,3,0,0,0,0
+754,754,47,Male,,*Unspecified,*Unknown,2,3,0,0,0,0
+755,755,40,Female,,*Unspecified,*Unknown,2,3,0,0,0,0
+756,756,48,Male,,*Unspecified,*Unknown,2,2,0,0,0,0
+757,757,43,Female,,*Unspecified,Never Assessed,1,3,0,0,0,0
+758,758,24,Male,Black or African American,"Not Hispanic, Latinx, or Spanish Origin",*Unknown,1,3,0,0,0,0
+759,759,30,Male,White or Caucasian,"Hispanic, Latinx, or Spanish Origin",Never Assessed,3,3,0,0,0,0
+760,760,26,Male,White or Caucasian,"Not Hispanic, Latinx, or Spanish Origin",Never Smoker,1,2,0,0,0,0
+761,761,42,Male,White or Caucasian,"Not Hispanic, Latinx, or Spanish Origin",Never Smoker,1,2,0,0,0,0
+762,762,31,Male,White or Caucasian,"Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,2,2,0,0,0,0
+763,763,47,Male,White or Caucasian,"Hispanic, Latinx, or Spanish Origin",Never Assessed,2,2,0,0,0,0
+764,764,49,Male,,*Unspecified,*Unknown,2,3,0,0,0,0
+765,765,30,Male,,*Unspecified,*Unknown,1,3,0,0,0,0
+766,766,27,Male,White or Caucasian,"Not Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,2,1,0,0,0,1
+767,767,51,Female,,*Unspecified,*Unknown,4,3,0,0,0,0
+768,768,44,Male,,*Unspecified,Former Smoker,3,4,0,0,0,0
+769,769,24,Male,Black or African American,"Not Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,3,3,0,0,0,0
+770,770,43,Male,Black or African American,"Not Hispanic, Latinx, or Spanish Origin",Never Assessed,2,3,1,1,0,0
+771,771,46,Male,White or Caucasian,"Not Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,2,3,0,0,0,0
+772,772,29,Male,,*Unspecified,*Unknown,3,3,0,0,0,0
+773,773,31,Male,,*Unspecified,*Unknown,2,2,0,0,0,0
+774,774,34,Male,White or Caucasian,"Hispanic, Latinx, or Spanish Origin",Never Assessed,1,2,0,0,0,0
+775,775,59,Male,White or Caucasian,"Hispanic, Latinx, or Spanish Origin",Never Smoker,3,3,0,0,0,1
+776,776,52,Male,White or Caucasian,"Not Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,2,2,0,0,0,1
+777,777,36,Male,Decline to Answer,"Hispanic, Latinx, or Spanish Origin",Never Smoker,2,2,0,0,0,0
+778,778,40,Male,,*Unspecified,*Unknown,1,2,0,0,0,0
+779,779,29,Female,White or Caucasian,"Not Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,3,3,0,0,1,1
+780,780,35,Male,White or Caucasian,"Hispanic, Latinx, or Spanish Origin",Never Assessed,2,3,0,0,0,0
+781,781,35,Female,White or Caucasian,"Hispanic, Latinx, or Spanish Origin",Never Smoker,2,3,1,1,1,1
+782,782,42,Male,,*Unspecified,*Unknown,2,2,0,0,0,0
+783,783,44,Male,Black or African American,"Not Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,1,2,0,1,0,1
+784,784,45,Male,Black or African American,"Not Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,2,3,0,0,0,0
+785,785,40,Male,,*Unspecified,*Unknown,1,1,0,0,0,0
+786,786,32,Male,Black or African American,"Not Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,1,3,0,1,0,1
+787,787,45,Male,,*Unspecified,*Unknown,1,2,0,0,0,0
+788,788,34,Male,,*Unspecified,*Unknown,1,2,0,0,0,0
+789,789,33,Male,Black or African American,"Not Hispanic, Latinx, or Spanish Origin",*Unknown,2,3,0,0,0,0
+790,790,44,Male,,*Unspecified,Never Assessed,2,2,0,0,0,0
+791,791,52,Male,,*Unspecified,*Unknown,2,2,0,0,0,0
+792,792,33,Male,,*Unspecified,*Unknown,2,2,0,0,0,0
+793,793,35,Male,White or Caucasian,"Hispanic, Latinx, or Spanish Origin",Never Smoker,1,2,1,1,1,1
+794,794,35,Male,,*Unspecified,*Unknown,2,3,0,0,0,0
+795,795,30,Male,,*Unspecified,*Unknown,1,2,0,0,0,0
+796,796,27,Male,Other,"Hispanic, Latinx, or Spanish Origin",Never Smoker,2,1,0,0,0,0
+797,797,30,Male,,*Unspecified,Never Smoker,3,2,0,0,0,0
+798,798,52,Male,White or Caucasian,"Not Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,2,2,1,1,1,1
+799,799,42,Male,Black or African American,"Not Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,3,3,1,1,0,1
+800,800,42,Male,Black or African American,"Not Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,3,3,0,0,0,0
+801,801,26,Male,Decline to Answer,"Hispanic, Latinx, or Spanish Origin",*Unknown,1,2,0,0,0,0
+802,802,39,Female,,*Unspecified,Current Every Day Smoker,2,3,0,0,0,0
+803,803,43,Male,White or Caucasian,"Not Hispanic, Latinx, or Spanish Origin",*Unknown,1,2,0,0,0,0
+804,804,43,Male,,*Unspecified,*Unknown,3,3,0,0,0,0
+805,805,43,Male,,*Unspecified,*Unknown,1,2,0,0,0,0
+806,806,35,Male,,*Unspecified,Never Smoker,3,3,0,0,0,0
+807,807,41,Male,,"Not Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,1,1,0,0,0,0
+808,808,36,Male,,*Unspecified,*Unknown,2,2,0,0,0,0
+809,809,25,Male,,*Unspecified,*Unknown,1,3,0,0,0,0
+810,810,49,Male,Black or African American,"Not Hispanic, Latinx, or Spanish Origin","Smoker, Current Status Unknown",4,2,0,0,0,0
+811,811,32,Male,Black or African American,"Not Hispanic, Latinx, or Spanish Origin",Unknown If Ever Smoked,1,1,0,0,0,0
+812,812,32,Male,White or Caucasian,"Not Hispanic, Latinx, or Spanish Origin",Never Smoker,1,2,0,0,0,0
+813,813,32,Male,Other,"Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,3,3,0,1,1,1
+814,814,44,Male,,*Unspecified,*Unknown,3,1,0,0,0,0
+815,815,36,Male,,*Unspecified,*Unknown,1,2,0,0,0,0
+816,816,51,Male,Black or African American,"Not Hispanic, Latinx, or Spanish Origin",Never Assessed,2,2,0,0,0,0
+817,817,50,Male,White or Caucasian,"Not Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,3,3,0,0,0,0
+818,818,52,Male,Other,"Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,3,3,1,1,1,1
+819,819,24,Male,Other,"Hispanic, Latinx, or Spanish Origin",Never Smoker,1,2,0,0,0,0
+820,820,38,Male,Other,"Hispanic, Latinx, or Spanish Origin",Never Smoker,2,2,0,0,0,0
+821,821,46,Male,,*Unspecified,*Unknown,2,2,0,0,0,0
+822,822,34,Female,Black or African American,"Not Hispanic, Latinx, or Spanish Origin",Former Smoker,2,3,0,0,1,1
+823,823,38,Male,White or Caucasian,"Not Hispanic, Latinx, or Spanish Origin",*Unknown,2,2,0,0,0,0
+824,824,36,Male,Black or African American,"Not Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,1,2,1,1,0,1
+825,825,30,Male,Black or African American,"Not Hispanic, Latinx, or Spanish Origin",Former Smoker,1,3,0,1,0,0
+826,826,23,Male,Black or African American,"Not Hispanic, Latinx, or Spanish Origin",Passive Smoke Exposure - Never Smoker,3,3,0,0,0,0
+827,827,37,Male,White or Caucasian,"Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,1,2,0,1,0,1
+828,828,35,Female,,*Unspecified,*Unknown,2,3,0,0,0,0
+829,829,38,Male,Decline to Answer,Decline to Answer,Never Smoker,3,1,0,0,1,1
+830,830,28,Male,White or Caucasian,"Hispanic, Latinx, or Spanish Origin",Former Smoker,1,2,0,0,0,0
+831,831,26,Female,,*Unspecified,Never Assessed,3,3,0,0,0,0
+832,832,30,Male,White or Caucasian,"Not Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,1,2,0,0,0,0
+833,833,46,Male,White or Caucasian,"Not Hispanic, Latinx, or Spanish Origin",Former Smoker,3,3,0,0,0,0
+834,834,46,Male,Black or African American,"Not Hispanic, Latinx, or Spanish Origin",Never Smoker,1,2,0,0,0,0
+835,835,30,Female,,*Unspecified,Current Every Day Smoker,4,3,0,0,0,0
+836,836,38,Male,White or Caucasian,"Not Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,2,2,0,0,0,1
+837,837,41,Female,,*Unspecified,Never Assessed,2,3,0,0,0,0
+838,838,26,Female,,*Unspecified,*Unknown,2,3,0,0,0,0
+839,839,62,Male,Black or African American,"Hispanic, Latinx, or Spanish Origin",Never Smoker,2,1,0,0,0,1
+840,840,34,Male,,*Unspecified,Never Smoker,2,3,0,0,0,0
+841,841,26,Male,White or Caucasian,"Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,2,3,1,1,1,1
+842,842,35,Male,White or Caucasian,"Not Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,2,2,0,0,0,0
+843,843,47,Male,White or Caucasian,"Not Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,2,3,0,0,0,0
+844,844,46,Male,,*Unspecified,*Unknown,2,2,0,0,0,0
+845,845,52,Male,White or Caucasian,"Hispanic, Latinx, or Spanish Origin",Never Smoker,2,2,0,0,0,0
+846,846,43,Male,Black or African American,"Not Hispanic, Latinx, or Spanish Origin",*Unknown,3,1,0,0,0,0
+847,847,32,Male,Other,"Hispanic, Latinx, or Spanish Origin",Never Smoker,2,3,0,0,1,1
+848,848,39,Male,White or Caucasian,"Not Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,2,3,0,1,0,0
+849,849,26,Male,,*Unspecified,*Unknown,1,3,0,0,0,0
+850,850,28,Female,,*Unspecified,*Unknown,1,3,0,0,0,0
+851,851,32,Male,White or Caucasian,"Not Hispanic, Latinx, or Spanish Origin",Former Smoker,3,3,0,1,0,1
+852,852,42,Male,White or Caucasian,"Not Hispanic, Latinx, or Spanish Origin",Current Some Day Smoker,2,4,1,1,0,0
+853,853,41,Male,,*Unspecified,*Unknown,2,1,0,0,0,0
+854,854,40,Male,White or Caucasian,"Not Hispanic, Latinx, or Spanish Origin",Never Smoker,2,2,0,0,0,1
+855,855,49,Male,Black or African American,"Not Hispanic, Latinx, or Spanish Origin",Never Smoker,3,1,1,1,1,1
+856,856,37,Male,Other,"Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,1,2,0,1,0,1
+857,857,59,Female,Other,"Hispanic, Latinx, or Spanish Origin",Former Smoker,3,3,0,0,0,0
+858,858,34,Male,White or Caucasian,"Not Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,2,2,0,0,0,1
+859,859,50,Female,,*Unspecified,*Unknown,1,3,0,0,0,0
+860,860,31,Male,,*Unspecified,*Unknown,2,3,0,0,0,0
+861,861,47,Male,White or Caucasian,"Not Hispanic, Latinx, or Spanish Origin",Never Smoker,2,2,0,0,0,0
+862,862,34,Male,Other,"Hispanic, Latinx, or Spanish Origin",Current Some Day Smoker,2,3,0,0,0,0
+863,863,30,Male,White or Caucasian,"Not Hispanic, Latinx, or Spanish Origin",Never Smoker,2,2,0,0,0,0
+864,864,38,Female,,*Unspecified,*Unknown,1,2,0,0,0,0
+865,865,54,Male,White or Caucasian,"Hispanic, Latinx, or Spanish Origin",Never Smoker,3,3,0,0,0,0
+866,866,44,Male,White or Caucasian,"Not Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,2,1,0,1,0,0
+867,867,41,Male,White or Caucasian,"Not Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,3,3,0,0,0,0
+868,868,40,Male,Other,"Not Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,3,2,0,0,0,0
+869,869,46,Male,Black or African American,"Not Hispanic, Latinx, or Spanish Origin",Former Smoker,2,3,0,0,0,0
+870,870,37,Male,Black or African American,"Not Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,3,2,0,1,0,1
+871,871,34,Female,White or Caucasian,"Not Hispanic, Latinx, or Spanish Origin",Never Assessed,1,3,0,1,0,1
+872,872,40,Female,,*Unspecified,*Unknown,3,2,0,0,0,0
+873,873,34,Male,,*Unspecified,*Unknown,2,1,0,0,0,0
+874,874,38,Male,,*Unspecified,*Unknown,3,2,0,0,0,0
+875,875,30,Male,White or Caucasian,"Hispanic, Latinx, or Spanish Origin",Unknown If Ever Smoked,1,1,0,0,0,0
+876,876,46,Male,,*Unspecified,*Unknown,1,1,0,0,0,0
+877,877,47,Male,,*Unspecified,*Unknown,2,2,0,0,0,0
+878,878,49,Male,White or Caucasian,"Hispanic, Latinx, or Spanish Origin",Never Smoker,2,2,1,1,0,1
+879,879,25,Male,,*Unspecified,*Unknown,1,3,0,0,0,0
+880,880,53,Male,,*Unspecified,*Unknown,3,1,0,0,0,0
+881,881,28,Male,White or Caucasian,"Not Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,1,3,0,0,0,0
+882,882,37,Male,White or Caucasian,"Hispanic, Latinx, or Spanish Origin",Former Smoker,3,2,0,0,0,1
+883,883,35,Male,,*Unspecified,*Unknown,2,3,0,0,0,0
+884,884,52,Female,,*Unspecified,*Unknown,2,3,0,0,0,0
+885,885,36,Male,Black or African American,"Not Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,3,3,0,0,0,0
+886,886,66,Male,White or Caucasian,"Hispanic, Latinx, or Spanish Origin",Never Smoker,4,2,0,0,0,0
+887,887,38,Male,,*Unspecified,*Unknown,1,2,0,0,0,0
+888,888,38,Male,,*Unspecified,*Unknown,2,2,0,0,0,0
+889,889,55,Male,Other,"Hispanic, Latinx, or Spanish Origin",Never Smoker,2,3,1,1,1,1
+890,890,31,Male,,*Unspecified,*Unknown,1,1,0,0,0,0
+891,891,56,Male,White or Caucasian,"Not Hispanic, Latinx, or Spanish Origin",Never Assessed,2,2,1,1,1,1
+892,892,49,Male,White or Caucasian,"Not Hispanic, Latinx, or Spanish Origin",Never Assessed,3,3,0,0,0,0
+893,893,24,Male,Black or African American,"Not Hispanic, Latinx, or Spanish Origin",Never Smoker,1,1,0,0,0,0
+894,894,35,Male,Black or African American,"Not Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,3,3,0,0,0,0
+895,895,41,Male,White or Caucasian,"Not Hispanic, Latinx, or Spanish Origin",Former Smoker,3,3,0,0,1,1
+896,896,24,Male,Asian,"Not Hispanic, Latinx, or Spanish Origin",*Unknown,1,2,0,0,0,0
+897,897,29,Male,White or Caucasian,"Not Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,2,3,0,0,0,0
+898,898,53,Male,White or Caucasian,"Not Hispanic, Latinx, or Spanish Origin",Never Smoker,4,3,0,0,0,1
+899,899,24,Female,Other,"Hispanic, Latinx, or Spanish Origin",Never Assessed,1,3,0,0,0,0
+900,900,61,Male,White or Caucasian,"Not Hispanic, Latinx, or Spanish Origin",Former Smoker,2,3,0,0,0,0
+901,901,27,Male,White or Caucasian,"Hispanic, Latinx, or Spanish Origin",Current Some Day Smoker,1,3,0,0,0,0
+902,902,24,Male,Black or African American,"Not Hispanic, Latinx, or Spanish Origin",Current Every Day Smoker,2,3,0,0,0,0
+903,903,47,Male,Black or African American,"Not Hispanic, Latinx, or Spanish Origin",Never Smoker,3,1,0,0,0,1
+904,904,25,Male,White or Caucasian,"Hispanic, Latinx, or Spanish Origin",Light Tobacco Smoker,2,4,0,1,0,1
